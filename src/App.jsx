@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        I am testing this app on netlify. This is just for learning purpose.
+        I am testing this app on netlify. This is just for learning purpose. This is to check whether it is changing or not on the hosted website when commited.
       </p>
     </>
   )
